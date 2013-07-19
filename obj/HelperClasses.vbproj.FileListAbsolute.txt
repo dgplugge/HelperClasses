@@ -1,0 +1,112 @@
+F:\Coding\Projects 080717\HelperClasses\bin\Debug\HelperClasses.dll.config
+F:\Coding\Projects 080717\HelperClasses\bin\Debug\HelperClasses.dll
+F:\Coding\Projects 080717\HelperClasses\bin\Debug\HelperClasses.pdb
+F:\Coding\Projects 080717\HelperClasses\bin\Debug\HelperClasses.xml
+F:\Coding\Projects 080717\HelperClasses\bin\Debug\Interop.Scripting.dll
+F:\Coding\Projects 080717\HelperClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\Coding\Projects 080717\HelperClasses\obj\Debug\Interop.Scripting.dll
+F:\Coding\Projects 080717\HelperClasses\obj\Debug\HelperClasses.vbproj.ResolveComReference.cache
+F:\Coding\Projects 080717\HelperClasses\obj\Debug\HelperClasses.ExceptionDialog.resources
+F:\Coding\Projects 080717\HelperClasses\obj\Debug\HelperClasses.Resources.resources
+F:\Coding\Projects 080717\HelperClasses\obj\Debug\HelperClasses.vbproj.GenerateResource.Cache
+F:\Coding\Projects 080717\HelperClasses\obj\Debug\HelperClasses.dll
+F:\Coding\Projects 080717\HelperClasses\obj\Debug\HelperClasses.xml
+F:\Coding\Projects 080717\HelperClasses\obj\Debug\HelperClasses.pdb
+F:\Coding\Projects\HelperClasses\bin\Release\HelperClasses.dll.config
+F:\Coding\Projects\HelperClasses\bin\Release\HelperClasses.dll
+F:\Coding\Projects\HelperClasses\bin\Release\HelperClasses.pdb
+F:\Coding\Projects\HelperClasses\bin\Release\HelperClasses.xml
+F:\Coding\Projects\HelperClasses\bin\Release\Interop.Scripting.dll
+F:\Coding\Projects\HelperClasses\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\Projects\HelperClasses\obj\Release\Interop.Scripting.dll
+F:\Coding\Projects\HelperClasses\obj\Release\HelperClasses.vbproj.ResolveComReference.cache
+F:\Coding\Projects\HelperClasses\obj\Release\HelperClasses.ExceptionDialog.resources
+F:\Coding\Projects\HelperClasses\obj\Release\HelperClasses.Resources.resources
+F:\Coding\Projects\HelperClasses\obj\Release\HelperClasses.vbproj.GenerateResource.Cache
+F:\Coding\Projects\HelperClasses\obj\Release\HelperClasses.dll
+F:\Coding\Projects\HelperClasses\obj\Release\HelperClasses.xml
+F:\Coding\Projects\HelperClasses\obj\Release\HelperClasses.pdb
+F:\Coding\Projects\HelperClasses\bin\Debug\HelperClasses.dll.config
+F:\Coding\Projects\HelperClasses\bin\Debug\HelperClasses.dll
+F:\Coding\Projects\HelperClasses\bin\Debug\HelperClasses.pdb
+F:\Coding\Projects\HelperClasses\bin\Debug\HelperClasses.xml
+F:\Coding\Projects\HelperClasses\bin\Debug\Interop.Scripting.dll
+F:\Coding\Projects\HelperClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\Coding\Projects\HelperClasses\obj\Debug\Interop.Scripting.dll
+F:\Coding\Projects\HelperClasses\obj\Debug\HelperClasses.vbproj.ResolveComReference.cache
+F:\Coding\Projects\HelperClasses\obj\Debug\HelperClasses.ExceptionDialog.resources
+F:\Coding\Projects\HelperClasses\obj\Debug\HelperClasses.Resources.resources
+F:\Coding\Projects\HelperClasses\obj\Debug\HelperClasses.vbproj.GenerateResource.Cache
+F:\Coding\Projects\HelperClasses\obj\Debug\HelperClasses.dll
+F:\Coding\Projects\HelperClasses\obj\Debug\HelperClasses.xml
+F:\Coding\Projects\HelperClasses\obj\Debug\HelperClasses.pdb
+F:\Coding\Development\Projects\HelperClasses\bin\Release\HelperClasses.dll.config
+F:\Coding\Development\Projects\HelperClasses\bin\Release\HelperClasses.dll
+F:\Coding\Development\Projects\HelperClasses\bin\Release\HelperClasses.pdb
+F:\Coding\Development\Projects\HelperClasses\bin\Release\HelperClasses.xml
+F:\Coding\Development\Projects\HelperClasses\bin\Release\Interop.Scripting.dll
+F:\Coding\Development\Projects\HelperClasses\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\Development\Projects\HelperClasses\obj\Release\Interop.Scripting.dll
+F:\Coding\Development\Projects\HelperClasses\obj\Release\HelperClasses.vbproj.ResolveComReference.cache
+F:\Coding\Development\Projects\HelperClasses\obj\Release\HelperClasses.ExceptionDialog.resources
+F:\Coding\Development\Projects\HelperClasses\obj\Release\HelperClasses.Resources.resources
+F:\Coding\Development\Projects\HelperClasses\obj\Release\HelperClasses.vbproj.GenerateResource.Cache
+F:\Coding\Development\Projects\HelperClasses\obj\Release\HelperClasses.dll
+F:\Coding\Development\Projects\HelperClasses\obj\Release\HelperClasses.xml
+F:\Coding\Development\Projects\HelperClasses\obj\Release\HelperClasses.pdb
+F:\Coding\Development\Projects\HelperClasses\bin\Debug\HelperClasses.dll.config
+F:\Coding\Development\Projects\HelperClasses\bin\Debug\HelperClasses.dll
+F:\Coding\Development\Projects\HelperClasses\bin\Debug\HelperClasses.pdb
+F:\Coding\Development\Projects\HelperClasses\bin\Debug\HelperClasses.xml
+F:\Coding\Development\Projects\HelperClasses\bin\Debug\Interop.Scripting.dll
+F:\Coding\Development\Projects\HelperClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\Coding\Development\Projects\HelperClasses\obj\Debug\Interop.Scripting.dll
+F:\Coding\Development\Projects\HelperClasses\obj\Debug\HelperClasses.vbproj.ResolveComReference.cache
+F:\Coding\Development\Projects\HelperClasses\obj\Debug\HelperClasses.ExceptionDialog.resources
+F:\Coding\Development\Projects\HelperClasses\obj\Debug\HelperClasses.Resources.resources
+F:\Coding\Development\Projects\HelperClasses\obj\Debug\HelperClasses.vbproj.GenerateResource.Cache
+F:\Coding\Development\Projects\HelperClasses\obj\Debug\HelperClasses.dll
+F:\Coding\Development\Projects\HelperClasses\obj\Debug\HelperClasses.xml
+F:\Coding\Development\Projects\HelperClasses\obj\Debug\HelperClasses.pdb
+E:\HelperClasses\bin\Release\HelperClasses.dll.config
+E:\HelperClasses\bin\Release\HelperClasses.dll
+E:\HelperClasses\bin\Release\HelperClasses.pdb
+E:\HelperClasses\bin\Release\HelperClasses.xml
+E:\HelperClasses\bin\Release\Interop.Scripting.dll
+E:\HelperClasses\obj\Release\ResolveAssemblyReference.cache
+E:\HelperClasses\obj\Release\Interop.Scripting.dll
+E:\HelperClasses\obj\Release\HelperClasses.vbproj.ResolveComReference.cache
+E:\HelperClasses\obj\Release\HelperClasses.ExceptionDialog.resources
+E:\HelperClasses\obj\Release\HelperClasses.Resources.resources
+E:\HelperClasses\obj\Release\HelperClasses.vbproj.GenerateResource.Cache
+E:\HelperClasses\obj\Release\HelperClasses.dll
+E:\HelperClasses\obj\Release\HelperClasses.xml
+E:\HelperClasses\obj\Release\HelperClasses.pdb
+F:\Software\HelperClasses\bin\Release\HelperClasses.dll.config
+F:\Software\HelperClasses\bin\Release\HelperClasses.dll
+F:\Software\HelperClasses\bin\Release\HelperClasses.pdb
+F:\Software\HelperClasses\bin\Release\HelperClasses.xml
+F:\Software\HelperClasses\bin\Release\Interop.Scripting.dll
+F:\Software\HelperClasses\obj\Release\ResolveAssemblyReference.cache
+F:\Software\HelperClasses\obj\Release\Interop.Scripting.dll
+F:\Software\HelperClasses\obj\Release\HelperClasses.vbproj.ResolveComReference.cache
+F:\Software\HelperClasses\obj\Release\HelperClasses.ExceptionDialog.resources
+F:\Software\HelperClasses\obj\Release\HelperClasses.Resources.resources
+F:\Software\HelperClasses\obj\Release\HelperClasses.vbproj.GenerateResource.Cache
+F:\Software\HelperClasses\obj\Release\HelperClasses.dll
+F:\Software\HelperClasses\obj\Release\HelperClasses.xml
+F:\Software\HelperClasses\obj\Release\HelperClasses.pdb
+F:\Software\HelperClasses\bin\Debug\HelperClasses.dll.config
+F:\Software\HelperClasses\bin\Debug\HelperClasses.dll
+F:\Software\HelperClasses\bin\Debug\HelperClasses.pdb
+F:\Software\HelperClasses\bin\Debug\HelperClasses.xml
+F:\Software\HelperClasses\bin\Debug\Interop.Scripting.dll
+F:\Software\HelperClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\Software\HelperClasses\obj\Debug\Interop.Scripting.dll
+F:\Software\HelperClasses\obj\Debug\HelperClasses.vbproj.ResolveComReference.cache
+F:\Software\HelperClasses\obj\Debug\HelperClasses.ExceptionDialog.resources
+F:\Software\HelperClasses\obj\Debug\HelperClasses.Resources.resources
+F:\Software\HelperClasses\obj\Debug\HelperClasses.vbproj.GenerateResource.Cache
+F:\Software\HelperClasses\obj\Debug\HelperClasses.dll
+F:\Software\HelperClasses\obj\Debug\HelperClasses.xml
+F:\Software\HelperClasses\obj\Debug\HelperClasses.pdb

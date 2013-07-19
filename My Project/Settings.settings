@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ExceptionEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">plugged@mail.nih.gov</Value>
+    </Setting>
+    <Setting Name="MailServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mailfwd.nih.gov</Value>
+    </Setting>
+    <Setting Name="EmailTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">plugged@mail.nih.gov</Value>
+    </Setting>
+    <Setting Name="MailPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
